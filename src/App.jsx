@@ -20,7 +20,7 @@ const App = () => {
     const initialValue = document.body.style.zoom;
 
     // Change zoom level on mount
-    document.body.style.zoom = '80%';
+    document.body.style.zoom = '84%';
 
     return () => {
       // Restore default value
